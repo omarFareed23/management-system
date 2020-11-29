@@ -11,3 +11,4 @@
 ###  the doctor control the it
 ###  it has (one doctor , several TAs and students)
 ## this program is under work and will be edited in the near future.
+### main function(management class) is used to test the classes
